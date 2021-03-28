@@ -1,4 +1,4 @@
-# Project_Final_version
+# Project_Final_version(개발완료한 프로젝트)
 ### 1. JCafe(카페 포스기 프로그램)
 #### 1.1 개발환경 : Eclipse neon, JDK 1.8
 #### 1.2 개발인원 : 6명
